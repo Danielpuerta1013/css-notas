@@ -1,0 +1,7 @@
+introduccion css
+    css
+        style.css lo importante es que tenga la extension .css
+    img
+    js
+    index.html
+esta es la estructura normal de un archivo de trabajo 
